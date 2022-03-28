@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-28T01:38:52.472Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="k3OjrJYIUBNWb_Vj-XcO" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-28T01:41:39.772Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="hYtwzL_CFX-i-p5aWJEy" version="16.4.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2367" dy="1235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1352" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1353" value="金属应变式传感器" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="751.5" width="120" height="120" as="geometry" />
+          <mxGeometry x="2920" y="1378" width="230" height="198.5" as="geometry" />
         </mxCell>
         <mxCell id="1362" style="endArrow=none;strokeWidth=6;strokeColor=#1699D3;html=1;" parent="1" source="1515" target="1353" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -23,10 +23,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1440" value="&lt;font style=&quot;font-size: 21px&quot;&gt;应变式传感器&lt;/font&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="650" width="150" height="60" as="geometry" />
+          <mxGeometry x="3180" y="1280" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1441" value="&lt;font style=&quot;font-size: 21px&quot;&gt;金属丝式应变片&lt;/font&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1620" y="980" width="165" height="50" as="geometry" />
+          <mxGeometry x="3490" y="1610" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1568" value="" style="edgeStyle=none;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=18;fontColor=default;endArrow=none;strokeColor=#64BBE2;strokeWidth=3;" edge="1" parent="1" source="1442" target="P_r0jZMm2rQdvnXoWjfA-1567">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1442" value="&lt;font style=&quot;font-size: 21px&quot;&gt;测量电路&lt;/font&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1633" y="831.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="3503" y="1461.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1560" value="" style="edgeStyle=none;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=18;fontColor=default;endArrow=none;strokeColor=#64BBE2;strokeWidth=3;" edge="1" parent="1" source="1443" target="P_r0jZMm2rQdvnXoWjfA-1559">
           <mxGeometry relative="1" as="geometry" />
@@ -53,88 +53,85 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1443" value="&lt;font style=&quot;font-size: 21px&quot;&gt;金属箔式应变片&lt;/font&gt;" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="946.5" width="160" height="60" as="geometry" />
+          <mxGeometry x="3230" y="1576.5" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1451" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1440" edge="1">
-          <mxGeometry x="-480" y="150" width="100" height="100" as="geometry">
-            <mxPoint x="-480" y="250" as="sourcePoint" />
-            <mxPoint x="-380" y="150" as="targetPoint" />
+          <mxGeometry x="1390" y="780" width="100" height="100" as="geometry">
+            <mxPoint x="1390" y="880" as="sourcePoint" />
+            <mxPoint x="1490" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1452" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1442" edge="1">
-          <mxGeometry x="-480" y="150" width="100" height="100" as="geometry">
-            <mxPoint x="-480" y="250" as="sourcePoint" />
-            <mxPoint x="-380" y="150" as="targetPoint" />
+          <mxGeometry x="1390" y="780" width="100" height="100" as="geometry">
+            <mxPoint x="1390" y="880" as="sourcePoint" />
+            <mxPoint x="1490" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1453" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1441" edge="1">
-          <mxGeometry x="-480" y="150" width="100" height="100" as="geometry">
-            <mxPoint x="-480" y="250" as="sourcePoint" />
-            <mxPoint x="-380" y="150" as="targetPoint" />
+          <mxGeometry x="1390" y="780" width="100" height="100" as="geometry">
+            <mxPoint x="1390" y="880" as="sourcePoint" />
+            <mxPoint x="1490" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1454" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" target="1443" edge="1">
-          <mxGeometry x="-480" y="150" width="100" height="100" as="geometry">
-            <mxPoint x="-480" y="250" as="sourcePoint" />
-            <mxPoint x="-380" y="150" as="targetPoint" />
+          <mxGeometry x="1390" y="780" width="100" height="100" as="geometry">
+            <mxPoint x="1390" y="880" as="sourcePoint" />
+            <mxPoint x="1490" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1515" value="应变式传感器" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;fontColor=#2F5B7C;align=center;strokeColor=#2F5B7C;strokeWidth=6;fillColor=#FFFFFF;fontStyle=1;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="620" y="684.17" width="270" height="270" as="geometry" />
+          <mxGeometry x="2490" y="1314.17" width="270" height="270" as="geometry" />
         </mxCell>
         <mxCell id="1517" value="&lt;font style=&quot;font-size: 21px&quot;&gt;压阻效应&lt;/font&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="215" y="764.8299999999999" width="120" height="40" as="geometry" />
+          <mxGeometry x="2085" y="1394.83" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P_r0jZMm2rQdvnXoWjfA-1607" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1518" target="P_r0jZMm2rQdvnXoWjfA-1606">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1518" value="&lt;font style=&quot;font-size: 21px&quot;&gt;晶相、晶体&lt;/font&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="355" y="674.8299999999999" width="120" height="40" as="geometry" />
+        <mxCell id="1518" value="&lt;font style=&quot;font-size: 21px&quot;&gt;晶向、晶体&lt;/font&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="2225" y="1304.83" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1522" value="&lt;font style=&quot;font-size: 21px&quot;&gt;压阻系数&lt;/font&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="180" y="884.8299999999999" width="120" height="40" as="geometry" />
+          <mxGeometry x="2050" y="1514.83" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1528" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1517" edge="1">
-          <mxGeometry x="-1520" y="-220.17" width="100" height="100" as="geometry">
-            <mxPoint x="-1520" y="-120.16999999999999" as="sourcePoint" />
-            <mxPoint x="-1420" y="-220.17" as="targetPoint" />
+          <mxGeometry x="350" y="409.83000000000004" width="100" height="100" as="geometry">
+            <mxPoint x="350" y="509.83000000000004" as="sourcePoint" />
+            <mxPoint x="450" y="409.83000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1529" value="&lt;font style=&quot;font-size: 21px&quot;&gt;固态压阻器件&lt;/font&gt;" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="355" y="1044.83" width="140" height="60" as="geometry" />
+          <mxGeometry x="2225" y="1674.83" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1530" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;fontSize=21;" parent="1" source="1516" target="1518" edge="1">
-          <mxGeometry x="-1520" y="-220.17" width="100" height="100" as="geometry">
-            <mxPoint x="-1520" y="-120.16999999999999" as="sourcePoint" />
-            <mxPoint x="-1420" y="-220.17" as="targetPoint" />
+          <mxGeometry x="350" y="409.83000000000004" width="100" height="100" as="geometry">
+            <mxPoint x="350" y="509.83000000000004" as="sourcePoint" />
+            <mxPoint x="450" y="409.83000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1534" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1522" edge="1">
-          <mxGeometry x="-1520" y="-220.17" width="100" height="100" as="geometry">
-            <mxPoint x="-1520" y="-120.16999999999999" as="sourcePoint" />
-            <mxPoint x="-1420" y="-220.17" as="targetPoint" />
+          <mxGeometry x="350" y="409.83000000000004" width="100" height="100" as="geometry">
+            <mxPoint x="350" y="509.83000000000004" as="sourcePoint" />
+            <mxPoint x="450" y="409.83000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1540" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" target="1529" edge="1">
-          <mxGeometry x="-1520" y="-220.17" width="100" height="100" as="geometry">
-            <mxPoint x="-1520" y="-120.16999999999999" as="sourcePoint" />
-            <mxPoint x="-1420" y="-220.17" as="targetPoint" />
+          <mxGeometry x="350" y="409.83000000000004" width="100" height="100" as="geometry">
+            <mxPoint x="350" y="509.83000000000004" as="sourcePoint" />
+            <mxPoint x="450" y="409.83000000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1542" style="edgeStyle=none;rounded=0;html=1;exitX=0.5;exitY=1;endArrow=none;endFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#736CA8;strokeWidth=2;fillColor=#64bbe2;fontSize=20;fontColor=#23445D;" parent="1" source="1529" target="1529" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1516" value="压阻式传感器" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736ca8;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="415" y="814.8299999999999" width="120" height="120" as="geometry" />
+          <mxGeometry x="2285" y="1444.83" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1543" value="" style="endArrow=none;strokeWidth=6;strokeColor=#736CA8;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1515" target="1516">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="961.149233153255" y="805.1540815601531" as="sourcePoint" />
-            <mxPoint x="780" y="840" as="targetPoint" />
+            <mxPoint x="2831.149233153255" y="1435.1540815601531" as="sourcePoint" />
+            <mxPoint x="2650" y="1470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1549" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 18px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 18px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 18px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 18px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;圆柱式力与荷重传感器&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1051" y="485" width="180" height="100" as="geometry" />
+          <mxGeometry x="2921" y="1115" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1578" value="" style="edgeStyle=none;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=18;fontColor=default;endArrow=none;strokeColor=#64BBE2;strokeWidth=3;" edge="1" parent="1" source="P_r0jZMm2rQdvnXoWjfA-1553" target="P_r0jZMm2rQdvnXoWjfA-1577">
           <mxGeometry relative="1" as="geometry" />
@@ -143,13 +140,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1553" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 18px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;梁氏力传感器&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="475" width="180" height="110" as="geometry" />
+          <mxGeometry x="3140" y="1105" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1555" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 18px&quot;&gt;应变式压力传感器&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="530" width="155" height="90" as="geometry" />
+          <mxGeometry x="3340" y="1160" width="155" height="90" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1557" value="&lt;p&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 18px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 18px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 18px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 18px&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;应变式加速度传感器&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="635" width="175" height="90" as="geometry" />
+          <mxGeometry x="3430" y="1265" width="175" height="90" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1582" value="" style="edgeStyle=none;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=21;fontColor=default;endArrow=none;strokeColor=#64BBE2;strokeWidth=3;" edge="1" parent="1" source="P_r0jZMm2rQdvnXoWjfA-1559" target="P_r0jZMm2rQdvnXoWjfA-1581">
           <mxGeometry relative="1" as="geometry" />
@@ -164,7 +161,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1559" value="&lt;font style=&quot;vertical-align: inherit; font-size: 21px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 21px;&quot;&gt;应变效应&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1106.5" width="160" height="123.5" as="geometry" />
+          <mxGeometry x="3110" y="1710" width="160" height="123.5" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1591" value="" style="edgeStyle=none;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=21;fontColor=default;endArrow=none;strokeColor=#64BBE2;strokeWidth=3;" edge="1" parent="1" source="P_r0jZMm2rQdvnXoWjfA-1561" target="P_r0jZMm2rQdvnXoWjfA-1590">
           <mxGeometry relative="1" as="geometry" />
@@ -179,7 +176,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1561" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;应变片结构与材料&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="1270" width="180" height="153.5" as="geometry" />
+          <mxGeometry x="3350" y="1830" width="180" height="153.5" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1599" value="" style="edgeStyle=none;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=21;fontColor=default;endArrow=none;strokeColor=#64BBE2;strokeWidth=3;" edge="1" parent="1" source="P_r0jZMm2rQdvnXoWjfA-1563" target="P_r0jZMm2rQdvnXoWjfA-1598">
           <mxGeometry relative="1" as="geometry" />
@@ -188,7 +185,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1563" value="主要特性" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="1240" width="190" height="90" as="geometry" />
+          <mxGeometry x="3577.5" y="1840" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1603" value="" style="edgeStyle=none;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=21;fontColor=default;endArrow=none;strokeColor=#64BBE2;strokeWidth=3;" edge="1" parent="1" source="P_r0jZMm2rQdvnXoWjfA-1565" target="P_r0jZMm2rQdvnXoWjfA-1602">
           <mxGeometry relative="1" as="geometry" />
@@ -197,7 +194,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1565" value="测量误差及补偿" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1833" y="1250" width="167" height="100" as="geometry" />
+          <mxGeometry x="3744" y="1730" width="167" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1574" value="" style="edgeStyle=none;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=18;fontColor=default;endArrow=none;strokeColor=#64BBE2;strokeWidth=3;" edge="1" parent="1" source="P_r0jZMm2rQdvnXoWjfA-1567" target="P_r0jZMm2rQdvnXoWjfA-1573">
           <mxGeometry relative="1" as="geometry" />
@@ -206,67 +203,64 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1567" value="&lt;font style=&quot;font-size: 21px&quot;&gt;等臂电路&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="3620" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1569" value="&lt;font style=&quot;font-size: 21px&quot;&gt;第一对称电路&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1833" y="821.5" width="227" height="68.5" as="geometry" />
+          <mxGeometry x="3703" y="1451.5" width="227" height="68.5" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1571" value="&lt;font style=&quot;font-size: 21px&quot;&gt;第二对称电路&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="940" width="200" height="80" as="geometry" />
+          <mxGeometry x="3750" y="1570" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1573" value="&lt;font style=&quot;font-size: 21px&quot;&gt;单臂：半桥：全桥=1:2:4&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1953" y="640" width="337" height="80" as="geometry" />
+          <mxGeometry x="3823" y="1270" width="337" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1575" value="&lt;font style=&quot;font-size: 21px&quot;&gt;等臂电桥三个特点&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1985" y="740" width="365" height="60" as="geometry" />
+          <mxGeometry x="3855" y="1370" width="365" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1577" value="等截面梁弹性元件" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="320" width="190" height="80" as="geometry" />
+          <mxGeometry x="3010" y="950" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1579" value="&lt;font style=&quot;font-size: 21px&quot;&gt;等强度梁弹性元件&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="320" width="180" height="116" as="geometry" />
+          <mxGeometry x="3230" y="950" width="180" height="116" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1581" value="&lt;font style=&quot;font-size: 21px&quot;&gt;轴向应变&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="1220" width="250" height="80" as="geometry" />
+          <mxGeometry x="2520" y="2610" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1583" value="纵向应变" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="800" y="1330" width="190" height="70" as="geometry" />
+          <mxGeometry x="2770" y="2710" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1585" value="泊松比" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="920" y="1400" width="161" height="120" as="geometry" />
+          <mxGeometry x="3169" y="2820" width="161" height="120" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1587" value="金属丝应变灵敏系数" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1423.5" width="190" height="126.5" as="geometry" />
+          <mxGeometry x="2940" y="2790" width="190" height="126.5" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1589" style="edgeStyle=none;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;fontFamily=Helvetica;fontSize=21;fontColor=default;endArrow=none;strokeColor=#64BBE2;strokeWidth=3;" edge="1" parent="1" source="P_r0jZMm2rQdvnXoWjfA-1585" target="P_r0jZMm2rQdvnXoWjfA-1585">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1590" value="敏感栅" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1650" width="120" height="60" as="geometry" />
+          <mxGeometry x="3310" y="2443.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1592" value="基底" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="1620" width="120" height="60" as="geometry" />
+          <mxGeometry x="3490" y="2413.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1594" value="盖片" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1467.5" y="1600" width="120" height="60" as="geometry" />
+          <mxGeometry x="3647.5" y="2393.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1596" value="引线" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1625" y="1570" width="120" height="60" as="geometry" />
+          <mxGeometry x="3756.5" y="2280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1598" value="灵敏度系数" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1587.5" y="1390" width="120" height="60" as="geometry" />
+          <mxGeometry x="3670" y="2080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1600" value="横向效应" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="1370" width="120" height="60" as="geometry" />
+          <mxGeometry x="3805" y="1960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1602" value="温度误差（2种）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="2033" y="1250" width="237" height="120" as="geometry" />
+          <mxGeometry x="4150" y="1584.17" width="237" height="120" as="geometry" />
         </mxCell>
         <mxCell id="P_r0jZMm2rQdvnXoWjfA-1604" value="补偿方法（3种）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64BBE2;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="1470.25" width="217" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="P_r0jZMm2rQdvnXoWjfA-1606" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a29dc5;strokeColor=none;fontColor=#FFFFFF;rounded=1;strokeWidth=3;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="355" y="544.8299999999999" width="120" height="60" as="geometry" />
+          <mxGeometry x="4100" y="1910" width="217" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
